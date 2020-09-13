@@ -23,8 +23,7 @@ import models.Song;
  */
 public class AudioController extends BasicPlayer {
 
-    // music stream throughout 
-    // static 
+    // singleton pattern
     private static AudioController instance = null;
 
     private BasicController controller;
