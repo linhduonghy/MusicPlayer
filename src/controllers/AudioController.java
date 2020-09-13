@@ -19,7 +19,6 @@ import models.Song;
 /**
  * 
  * @refer: http://www.it.uu.se/edu/course/homepage/devgui/vt07/material/api/basicplayer3.0/javazoom/jlgui/basicplayer/BasicPlayer.html
- * @author: linhdv
  * 
  */
 
