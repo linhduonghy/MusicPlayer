@@ -1,6 +1,11 @@
-Music Player
+Music Player - LinhDV
 
 Java Swing & Mysql
+
+Using BasicPlayer lib
+
+
+*****
 
 Create database "music player"
 
