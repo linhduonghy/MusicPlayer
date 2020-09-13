@@ -17,10 +17,12 @@ import javazoom.jlgui.basicplayer.BasicPlayerException;
 import models.Song;
 
 /**
- *
- * @author LinhDV
- * @reference: http://www.it.uu.se/edu/course/homepage/devgui/vt07/material/api/basicplayer3.0/javazoom/jlgui/basicplayer/BasicPlayer.html
+ * 
+ * @refer: http://www.it.uu.se/edu/course/homepage/devgui/vt07/material/api/basicplayer3.0/javazoom/jlgui/basicplayer/BasicPlayer.html
+ * @author: linhdv
+ * 
  */
+
 public class AudioController extends BasicPlayer {
 
     // singleton pattern
