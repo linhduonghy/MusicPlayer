@@ -1,4 +1,4 @@
-# Mucsic Player - Java Swing ( using BasicPlayer )
+# Mucsic Player - Java Swing ( using BasicPlayer ) - Bài tập lớn môn OOP( Năm 3, Kỳ 1 - 2019)
 
 This is application play music offline.
 
